@@ -7,14 +7,14 @@ xpo logistics salary,1000
 blue cross blue shield benefits,880
 dte energy pay,1600
 trader joe's salary,1300
-harris county pay,720
+harris county pay,880
 ulta benefits,1000
 sprint pay,8100
 life time fitness salary,590
 macy's salary,1600
 buzzfeed salaries,1900
 intel salaries,590
-metropcs pay,49500
+metropcs pay,60500
 verizon benefits,2900
 dunkin donuts salary,1300
 dollar general hourly pay,590
@@ -37,11 +37,11 @@ metlife benefits,1600
 windstream pay,1000
 allegis benefits,1300
 les schwab pay,1000
-espn salary,1600
+espn salary,1300
 american express benefits,1300
-aflac salary,880
+aflac salary,720
 spectra pay,2900
-chipotle pay,1600
+chipotle pay,1900
 h&r block salary,590
 aldi pay,1600
 taco bell pay,1300
@@ -54,18 +54,18 @@ frito lay salaries,1000
 subway hourly pay,1000
 rite aid salary,590
 cigna benefits,720
-sears pay,9900
+sears pay,12100
 united states postal service benefits,880
 sodexo benefits,1300
 gm financial pay,4400
 u.s. navy salaries,1000
 luxottica benefits,1300
-big lots pay,1000
+big lots pay,1300
 tower loan pay,590
 victoria's secret hourly pay,590
-forever 21 salary,1300
+forever 21 salary,1000
 target wage,1300
-forever 21 salaries,1300
+forever 21 salaries,1000
 dollar general salary,1600
 loomis salary,590
 microsoft benefits,1900
@@ -81,7 +81,7 @@ state of tennessee salary,1000
 trader joe's pay,1000
 capital one benefits,1000
 chipotle hourly pay,1300
-glassdoor salary,33100
+glassdoor salary,40500
 menards pay,1600
 cognizant benefits,1900
 allstate insurance pay,1300
@@ -110,7 +110,7 @@ american airlines benefits,720
 u.s. navy salary,1000
 university of washington salary,880
 adp pay,368000
-cricket wireless pay,1900
+cricket wireless pay,2400
 massage envy salaries,590
 securitas salaries,590
 rent-a-center pay,4400
@@ -122,7 +122,7 @@ university of arizona salary,880
 unum benefits,720
 american airlines salary,880
 us air force salaries,720
-espn salaries,1600
+espn salaries,1300
 planet fitness -0077group salary,1300
 university of florida salary,590
 hilton benefits,590
@@ -140,13 +140,13 @@ intel salary,590
 how much does mcdonald's pay a week,880
 cvs/pharmacy salaries,2400
 dunkin donuts salaries,1300
-nba average salary,1300
+nba average salary,1000
 roto-rooter benefits,720
-t.j. maxx pay,3600
+t.j. maxx pay,4400
 pseg benefits,1600
 mcdonalds salaries,6600
 david's bridal pay,1600
-mattress firm pay,880
+mattress firm pay,1000
 raytheon benefits,1600
 rent a center pay,4400
 securitas salary,590
@@ -158,7 +158,7 @@ prudential benefits,720
 dish pay,5400
 olive garden salaries,590
 aecom salary,880
-booz allen hamilton salary,1300
+booz allen hamilton salary,1600
 oncology salary,9900
 atmos energy pay,1000
 how much does walmart pay an hour,880
@@ -198,9 +198,9 @@ ikea salary,720
 tj maxx salaries,1000
 arm pay,5400
 how much does target pay an hour,590
-edward jones salary,880
-ibm salary,720
-instacart pay,1000
+edward jones salary,720
+ibm salary,590
+instacart pay,1300
 verizon salary,1300
 home depot pay,8100
 walmart benefits,14800
@@ -209,7 +209,7 @@ frito-lay salary,1000
 google salary,5400
 morgan stanley salary,1000
 jcpenney salary,1300
-tjmaxx pay,3600
+tjmaxx pay,4400
 ups benefits,1900
 little caesars pay,590
 goodyear pay,880
@@ -217,7 +217,7 @@ walmart salary,6600
 state of illinois salary,1600
 ohio state university salaries,880
 how much does home depot pay an hour,590
-at&t benefits,3600
+at&t benefits,4400
 security salary,880
 massage envy salary,590
 home depot wage,1300
@@ -240,7 +240,7 @@ mercedes-benz pay,880
 bank of america benefits,3600
 xcel energy pay,1900
 victoria's secret pay,40500
-allied universal benefits,1300
+allied universal benefits,1600
 fox news salary,720
 state of wisconsin salary,590
 paypal pay,9900
@@ -251,15 +251,15 @@ university of minnesota salaries,880
 macy's hourly pay,720
 tjmaxx salaries,1000
 nebraska furniture mart pay,720
-cherry health benefits,2900
+cherry health benefits,1900
 ulta pay,2400
 charles river associates salary,3600
 toys 'r' us pay,6600
 volkswagen pay,3600
-applebee's salary,590
+applebee's salary,480
 buffalo wild wings pay,720
 how much does mcdonald's pay an hour,880
-starbucks salary,4400
+starbucks salary,5400
 big lots! salaries,880
 aecom salaries,880
 aldi hourly pay,720
@@ -267,7 +267,7 @@ uber benefits,720
 architectural design salary,720
 how much does mcdonalds pay a week,880
 mcdonalds salary,6600
-pegasus pay,880
+pegasus pay,1000
 petco pay,590
 family dollar salary,1300
 toys r us salaries,1000
@@ -290,7 +290,7 @@ comfort keepers salaries,590
 sephora pay,1000
 primerica salary,1900
 new york life salary,880
-usc benefits,880
+usc benefits,1000
 liberty mutual benefits,590
 salesforce salaries,1300
 burger king salaries,1600
@@ -304,7 +304,7 @@ u.s. bank salary,590
 dsw salary,590
 bank of america pay,2400
 sage benefits,1600
-kpmg salaries,1900
+kpmg salaries,1600
 oncology salaries,9900
 safeway salary,590
 google salaries,5400
@@ -314,7 +314,7 @@ starbucks pay,4400
 c.h. robinson salaries,590
 chipotle wage,720
 sam's club salary,1300
-marshalls pay,1000
+marshalls pay,1300
 security salaries,880
 sephora benefits,880
 panda express salary,720
@@ -329,7 +329,7 @@ federal bureau of investigation salary,14800
 chipotle benefits,720
 kaiser permanente pay,1300
 accenture salaries,1900
-abm pay,720
+abm pay,880
 ssi pay,2400
 paychex benefits,1300
 guitar center pay,1000
@@ -359,7 +359,7 @@ banana republic pay,1600
 nordstrom salary,1000
 united nations salary,1000
 national guard salaries,1300
-afl salaries,880
+afl salaries,720
 t-mobile pay,27100
 cisco salary,720
 gc services pay,720
@@ -367,9 +367,9 @@ ups pay,1600
 blackrock salary,590
 pseg pay,1000
 milliman benefits,12100
-consumers energy pay,880
+consumers energy pay,720
 general electric salary,590
-chick-fil-a pay,1900
+chick-fil-a pay,2400
 carmax salary,1000
 western union pay,1000
 hulu pay,1900
@@ -379,24 +379,24 @@ sephora salary,1300
 mediacom pay,1000
 northwestern mutual salary,1300
 toys r us pay,6600
-bank of america salary,1600
+bank of america salary,1000
 hooters salaries,590
-hobby lobby pay,1300
+hobby lobby pay,1600
 aldi wage,590
 ups wage,720
-forever 21 pay,2400
+forever 21 pay,2900
 subway salary,1600
-bealls pay,2400
+bealls pay,2900
 siemens benefits,1900
 pizza hut hourly pay,590
 ecolab salary,590
 northrop grumman benefits,5400
 gamestop wage,590
-ally financial pay,1900
-wwe salary,2900
+ally financial pay,1600
+wwe salary,2400
 best buy benefits,590
 olive garden salary,590
-doordash pay,880
+doordash pay,1000
 centerpoint energy pay,1300
 capital one pay,27100
 waste management salaries,1600
@@ -416,7 +416,7 @@ american express pay,5400
 southwest gas pay,880
 wells fargo salaries,1600
 aetna benefits,880
-lift pay,1600
+lift pay,1900
 national general insurance pay,880
 gap salary,590
 general motors salaries,720
@@ -425,21 +425,21 @@ intuit pay,5400
 home depot benefits,5400
 accenture benefits,880
 citi pay,5400
-grant thornton salary,720
+grant thornton salary,590
 university of michigan salaries,2900
 ryder benefits,590
-grant thornton salaries,720
+grant thornton salaries,590
 john deere pay,880
 aflac benefits,1000
 petsmart pay,1300
-starbucks salaries,4400
+starbucks salaries,5400
 deloitte salary,2400
 t j maxx salary,1000
 petsmart benefits,880
 foot locker salary,1600
 la fitness pay,590
 t j maxx hourly pay,720
-caliber home loans pay,1300
+caliber home loans pay,1000
 nba salaries,12100
 university of kentucky salary,1300
 gander mountain pay,720
@@ -454,14 +454,14 @@ facebook salary,1900
 maurices pay,1900
 panera bread salaries,1300
 lowe's pay,12100
-glassdoor salaries,33100
+glassdoor salaries,40500
 rgis pay,590
 home depot salary,5400
 google pay,49500
 architectural design salaries,720
 la|fitness salary,720
 lane bryant pay,5400
-t j maxx pay,3600
+t j maxx pay,4400
 living spaces pay,720
 best buy pay,33100
 georgia-pacific salaries,1900
@@ -469,7 +469,7 @@ exelon benefits,1000
 macy's pay,2400
 safeway salaries,590
 raytheon salary,590
-aarons pay,3600
+aarons pay,4400
 walgreens benefits,880
 wells fargo pay,4400
 gamestop pay,3600
@@ -503,7 +503,7 @@ cubesmart pay,1000
 srp pay,880
 honda pay,9900
 comcast pay,12100
-booz allen hamilton salaries,1300
+booz allen hamilton salaries,1600
 morgan stanley benefits,1900
 mcdonalds benefits,720
 university of illinois salaries,880
@@ -523,11 +523,11 @@ dressbarn pay,1600
 aaa pay,5400
 youtube salaries,12100
 24 hour fitness pay,880
-ups hourly pay,880
+ups hourly pay,1000
 pizza hut salary,1000
 university of michigan salary,2900
 bp benefits,590
-tj maxx pay,3600
+tj maxx pay,4400
 mcdonald's hourly pay,1300
 goodwill salaries,880
 toys r us hourly pay,590
@@ -550,7 +550,7 @@ publix salaries,1900
 panera bread pay,880
 visa benefits,720
 big lots salaries,880
-youtube pay,4400
+youtube pay,5400
 how much does mcdonalds pay an hour,880
 sam's club salaries,1300
 general electric salaries,590
@@ -561,9 +561,9 @@ disney salary,590
 wells fargo benefits,1000
 hhgregg pay,2900
 healthfirst pay,1300
-jet pay,1300
+jet pay,1600
 goldman sachs salary,2400
-bank of america salaries,1600
+bank of america salaries,480
 united states postal service salaries,3600
 hobby lobby hourly pay,590
 university of minnesota salary,880
@@ -587,11 +587,11 @@ csl plasma pay,2900
 nbs benefits,1300
 sage pay,1300
 bloomberg salary,590
-mcdonalds wage,1600
+mcdonalds wage,1300
 youtube salary,12100
 exxonmobil pay,590
-mcdonald's wage,1600
-at&t pay,9900
+mcdonald's wage,880
+at&t pay,12100
 toys 'r' us hourly pay,590
 yamaha pay,1000
 xpo logistics salaries,1000
@@ -599,8 +599,8 @@ buffalo wild wings salary,720
 family dollar salaries,1300
 u.s. bank salaries,590
 tj maxx salary,1000
-t-mobile benefits,1900
-skf pay,1000
+t-mobile benefits,1600
+skf pay,1300
 tj maxx hourly pay,720
 total pay,1900
 foot locker salaries,1600
@@ -609,18 +609,18 @@ mcdonald's salary,6600
 comcast salary,880
 publix hourly pay,720
 pottery barn pay,1000
-office depot salary,880
+office depot salary,720
 boost mobile pay,22200
 burger king salary,1600
-afl salary,880
+afl salary,720
 ibm benefits,880
 buffalo wild wings salaries,720
 credit acceptance pay,6600
 state farm pay,9900
 dollar tree pay,1000
-arconic benefits,880
-big lots! pay,1000
-kay jewelers pay,4400
+arconic benefits,1000
+big lots! pay,1300
+kay jewelers pay,6600
 u.s. army salary,1600
 primerica salaries,1900
 h&r block salaries,590
@@ -629,24 +629,23 @@ state of maryland salary,590
 macy's benefits,1000
 taco bell salary,1600
 u.s. army pay,720
-sears salary,720
+sears salary,590
 t-mobile salary,1600
 facebook salaries,1900
 spacex salary,1300
 dish network pay,5400
 walmart wage,2400
-office depot salaries,880
+office depot salaries,720
 boston consulting group salary,1000
 americorps salaries,720
 central intelligence agency salary,6600
 netflix salary,590
-wwe salaries,2900
-molina healthcare pay,5400
+wwe salaries,2400
+molina healthcare pay,4400
 fedex salaries,3600
 rue21 salary,720
 ymca pay,720
 mastercard benefits,720
-connection pay,590
 sysco benefits,1000
 unitedhealth group salary,1000
 spacex salaries,1300
@@ -654,7 +653,7 @@ lowe's salary,2900
 mcdonald's benefits,720
 national security agency salaries,1300
 marshalls salary,880
-drivetime pay,6600
+drivetime pay,5400
 accenture salary,1900
 us air force salary,720
 ihop salary,590
@@ -663,7 +662,7 @@ waste management pay,880
 wegmans salaries,720
 chevron pay,1000
 csi salaries,5400
-netflix pay,27100
+netflix pay,33100
 planet fitness -0077group salaries,1300
 amtrak benefits,720
 boeing salaries,880
@@ -688,16 +687,16 @@ frito lay salary,1000
 metro pay,8100
 old navy pay,14800
 world bank salary,590
-edward jones salaries,880
+edward jones salaries,720
 national guard benefits,2400
 sleep number pay,720
-staples pay,590
+staples pay,720
 michaels salaries,880
 c.h. robinson salary,590
 dhl pay,590
 pg&e pay,3600
 publishers clearing house pay,9900
-ssi benefits,18100
+ssi benefits,22200
 northrop grumman salaries,1000
 microsoft pay,590
 justice pay,880
@@ -734,21 +733,21 @@ home depot hourly pay,1900
 carmax benefits,1000
 gap pay,8100
 geico pay,14800
-linkedin salary,3600
-aerotek salary,1000
+linkedin salary,4400
+aerotek salary,880
 capital one salaries,880
 goodwill salary,880
 stein mart pay,590
 target benefits,3600
 customs and border protection salary,1300
 facebook benefits,590
-kpmg salary,1900
+kpmg salary,1600
 best buy salary,2900
 harley-davidson pay,5400
 sephora hourly pay,590
-apl pay,590
+apl pay,10
 state of ohio salary,1000
 flex benefits,1900
-aarp benefits,12100
+aarp benefits,14800
 ucla salary,1600
 state of tennessee salaries,1000
